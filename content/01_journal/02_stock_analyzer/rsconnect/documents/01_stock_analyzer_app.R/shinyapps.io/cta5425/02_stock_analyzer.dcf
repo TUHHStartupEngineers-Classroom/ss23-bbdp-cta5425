@@ -1,0 +1,13 @@
+name: 02_stock_analyzer
+title: 02_stock_analyzer
+username:
+account: cta5425
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9339656
+bundleId: 7368381
+url: https://cta5425.shinyapps.io/02_stock_analyzer/
+when: 1687294485.76266
+lastSyncTime: 1687294485.76267
+asMultiple: FALSE
+asStatic: FALSE
